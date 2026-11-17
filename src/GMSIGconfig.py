@@ -3,7 +3,7 @@ Configuration file for common parameters in the GMSIG ('Get Meraki Settings Into
 '''
 
 # Preference is to define MERAKI_API_KEY at executing user's environment, but it can be set here also (less secure)
-api_key = ''
+api_key = 'abd270cfa124a88e82dc24fdc628a234b09c1442'
 
 get_operation_mappings_file = 'API_GET_operations.csv'
 meraki_base_api_url = 'https://api.meraki.com/api/v1/'
